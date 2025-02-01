@@ -3,9 +3,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-.idea
-*.iml
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -39,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+### Own Ignore ###
+.idea
+*.iml
+/src/main/resources/db/
