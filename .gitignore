@@ -41,4 +41,3 @@ build/
 ### Own Ignore ###
 .idea
 *.iml
-/src/main/resources/db/
